@@ -2,9 +2,9 @@
 
 ##
 
-<div style="display: row">
-    <text>👨‍💻 Engenheiro de Software compartilhando experiências e aprendizados na área de tecnologia</text>
-    <text>👨🏼‍🎓 Graduando em Eng. de Computação no Instuto Politécnico do Rio de Janeiro (UERJ), Nova Friburgo</text>
+<div style="display: flex; flex-direction: column;">
+    <div>👨‍💻 Engenheiro de Software compartilhando experiências e aprendizados na área de tecnologia</div>
+    <div>👨🏼‍🎓 Graduando em Eng. de Computação no Instuto Politécnico do Rio de Janeiro (UERJ), Nova Friburgo</div>
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduh3435&show_icons=true&theme=dark)
