@@ -2,8 +2,10 @@
 
 ##
 
-👨‍💻 Engenheiro de Software compartilhando experiências e aprendizados na área de tecnologia
-👨🏼‍🎓 Graduando em Eng. de Computação no Instuto Politécnico do Rio de Janeiro (UERJ), Nova Friburgo
+<div style="display: row">
+    👨‍💻 Engenheiro de Software compartilhando experiências e aprendizados na área de tecnologia
+    👨🏼‍🎓 Graduando em Eng. de Computação no Instuto Politécnico do Rio de Janeiro (UERJ), Nova Friburgo
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduh3435&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduh3435&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
