@@ -25,7 +25,7 @@
     </td>
 
 <td valign="top" style="padding-left: 20px;">
-      <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="dev gif" width="200">
+      <img src="https://i.gifer.com/6vlk.gif" alt="dev gif" width="200">
     </td>
   </tr>
 </table>
