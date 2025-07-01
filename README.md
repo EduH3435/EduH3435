@@ -1,10 +1,13 @@
-# <div>
+#
+
+<div>
     <picture>
         <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
         <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
     </picture>
-    Olá, sou o Luis Eduardo
+    <h1>Olá, sou o Luis Eduardo</h1>
 </div>
+
 
 👨‍💻 Desenvolvedor front-end compartilhando experiências e aprendizados na área de tecnologia<br>👨🏼‍🎓 Graduando em Eng. de Computação no Instuto Politécnico do Rio de Janeiro (UERJ), Nova Friburgo<br>📚 Estou atualmente me aprimorando em Python e TypeScript<br>🎯 Busco minha primeira oportunidade de estágio na área<br>🎨 Também sou editor de videos e tenho vasta experiência com Photoshop
 
