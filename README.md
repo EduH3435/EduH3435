@@ -1,5 +1,5 @@
 <div style="justify-content= center;">
-    <h1>👋 Olá, sou o Luis Eduardo</h1>
+    <h1>Olá 👋, sou o Luis Eduardo</h1>
 </div>
 
 <h2>Estudante de Eng. de Computação na UERJ</h2>
