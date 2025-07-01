@@ -4,9 +4,8 @@
 
 👨‍💻 Desenvolvedor front-end compartilhando experiências e aprendizados na área de tecnologia<br>👨🏼‍🎓 Graduando em Eng. de Computação no Instuto Politécnico do Rio de Janeiro (UERJ), Nova Friburgo<br>📚 Estou atualmente me aprimorando em Python e TypeScript<br>🎯 Busco minha primeira oportunidade de estágio na área<br>🎨 Também sou editor de videos e tenho vasta experiência com Photoshop
 
-<h1>💻 Conhecimentos:</h1>
-
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+# 💻 Conhecimentos:
+<div style="display: flex; align-items: center; gap: 20px; flex-direction: row">
 
   <!-- Badges de Conhecimento -->
   <div>
@@ -37,9 +36,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=eduh3435&show_icons=true&theme=dark" alt="GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" alt="Top Langs">
 </div>
-
-
----
-[![](https://visitcount.itsvg.in/api?id=eduh3435&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
