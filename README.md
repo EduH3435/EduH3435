@@ -1,7 +1,7 @@
 #
 
 <div style="display: flex; align-items: center; gap: 12px;">
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="👋" width="42">
+  👋
   <span style="font-size: 1.8em; font-weight: bold;">Olá, sou o Luis Eduardo</span>
 </div>
 
