@@ -9,7 +9,6 @@
 # 💻 Conhecimentos:
 <table>
   <tr>
-    <!-- Coluna esquerda: badges -->
     <td valign="top">
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -25,8 +24,7 @@
       <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
     </td>
 
-    <!-- Coluna direita: gif -->
-    <td valign="top" style="padding-left: 20px;">
+<td valign="top" style="padding-left: 20px;">
       <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="dev gif" width="200">
     </td>
   </tr>
