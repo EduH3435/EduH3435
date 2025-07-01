@@ -5,8 +5,9 @@
         <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
         <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
     </picture>
-    <span style="font-size: 32px; font-weight: bold;">Olá, sou o Luis Eduardo</span>
+    <h1 style="margin: 0;">Olá, sou o Luis Eduardo</h1>
 </div>
+
 
 
 #
