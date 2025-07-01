@@ -25,7 +25,7 @@
     </td>
 
 <td valign="top" style="padding-left: 20px;">
-      <img src="https://i.gifer.com/6vIk.gif" alt="dev gif" width="200">
+      <img src="https://i.gifer.com/6vIk.gif" alt="dev gif" width="180">
     </td>
   </tr>
 </table>
