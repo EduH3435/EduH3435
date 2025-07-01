@@ -1,8 +1,8 @@
 #
 
 <div style="display: flex; align-items: center; gap: 12px;">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
-  <span style="font-size: 2em; font-weight: bold;">Olá, sou o Luis Eduardo</span>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="64" height="64">
+  <span style="font-size: 2em; font-weight: bold;"> Olá, sou o Luis Eduardo </span>
 </div>
 
 👨‍💻 Desenvolvedor front-end compartilhando experiências e aprendizados na área de tecnologia<br>👨🏼‍🎓 Graduando em Eng. de Computação no Instuto Politécnico do Rio de Janeiro (UERJ), Nova Friburgo<br>📚 Estou atualmente me aprimorando em Python e TypeScript<br>🎯 Busco minha primeira oportunidade de estágio na área<br>🎨 Também sou editor de videos e tenho vasta experiência com Photoshop
